@@ -1,0 +1,14 @@
+Host
+ec2-54-145-249-177.compute-1.amazonaws.com
+Database
+da2m0gfp1mqebd
+User
+rbeyhaqhnxyddj
+Port
+5432
+Password
+c8f8092006f094c5ae662ad11c79f4d70f068d4c4708eb747250919898995ee6
+URI
+postgres://rbeyhaqhnxyddj:c8f8092006f094c5ae662ad11c79f4d70f068d4c4708eb747250919898995ee6@ec2-54-145-249-177.compute-1.amazonaws.com:5432/da2m0gfp1mqebd
+Heroku CLI
+heroku pg:psql postgresql-flexible-65813 --app tt-pool
